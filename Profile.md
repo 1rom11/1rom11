@@ -1,8 +1,8 @@
 ### Hi there, I'm Romit - aka [1rom11] 👋
 
-https://img.shields.io/youtube/channel/subscribers/UCW2rGtzLMcYfa_gPikoCzIA?style=for-the-badge
-https://img.shields.io/twitter/follow/1rom111?style=for-the-badge
-https://img.shields.io/twitch/status/1rom111?style=for-the-badge
+[![](https://img.shields.io/youtube/channel/subscribers/UCW2rGtzLMcYfa_gPikoCzIA?style=for-the-badge)](https://www.youtube.com/channel/UCW2rGtzLMcYfa_gPikoCzIA)
+[![](https://img.shields.io/twitter/follow/1rom111?style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F1rom111&screen_name=1rom111)
+[![](https://img.shields.io/twitch/status/1rom111?style=for-the-badge)](https://www.twitch.tv/1rom111)
 
 ## I'm a Human, Developer!!
 
