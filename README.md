@@ -1,7 +1,3 @@
-[![](https://img.shields.io/youtube/channel/subscribers/UCW2rGtzLMcYfa_gPikoCzIA?style=for-the-badge)](https://www.youtube.com/channel/UCW2rGtzLMcYfa_gPikoCzIA)
-[![](https://img.shields.io/twitter/follow/1rom111?style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F1rom111&screen_name=1rom111)
-[![](https://img.shields.io/twitch/status/1rom111?style=for-the-badge)](https://www.twitch.tv/1rom111)
-
 <h1 align="center">Hi 👋, I'm 1rom11</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
@@ -17,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/1rom11](https://github.com/1rom11)
 
-- 💬 Ask me about **nothhing**
+- 💬 Ask me about **simple things**
 
 - 📫 How to reach me **dasromit12@gmail.com**
 
-- ⚡ Fun fact **I DUMB**
+- ⚡ Fun fact **ur reading this**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
