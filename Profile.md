@@ -1,5 +1,9 @@
 ### Hi there, I'm Romit - aka [1rom11] 👋
 
+https://img.shields.io/youtube/channel/subscribers/UCW2rGtzLMcYfa_gPikoCzIA?style=for-the-badge
+https://img.shields.io/twitter/follow/1rom111?style=for-the-badge
+https://img.shields.io/twitch/status/1rom111?style=for-the-badge
+
 ## I'm a Human, Developer!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -10,8 +14,8 @@
 ### Connect with me:
 
 [<img align="left" alt="github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://github.com/1rom11)
-[<img align="left" alt="1rom11 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://twitter.com/1rom111)
-[<img align="left" alt="1rom11 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.youtube.com/channel/UCW2rGtzLMcYfa_gPikoCzIA/featured)
+[<img align="left" alt="1rom11 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCW2rGtzLMcYfa_gPikoCzIA/featured)
+[<img align="left" alt="1rom11 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/1rom111)
 <br />
 
 ### Languages and Tools:
