@@ -35,7 +35,7 @@
 <a href="https://twitter.com/1rom111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1rom111" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/1rom11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="1rom11" height="30" width="40" /></a>
 <a href="https://discord.gg/XgbbY9Jydu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="XgbbY9Jydu" height="30" width="40" /></a>
-<a href="/1rom11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="feed" height="30" width="40" /></a>
+<a href="/bandito.re/a2cc217d-6365-4c85-a165-234c277a309e.atom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="feed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
