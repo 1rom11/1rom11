@@ -10,6 +10,7 @@
 
 <p align="left"> <img src="https://hit.yhype.me/github/profile?user_id=76579908" alt="1rom11" /> </p>
 
+
 - 🔭 I’m currently working on [1rom11/1rom11](https://github.com/1rom11/1rom11)
 
 - 🌱 I’m currently learning **SPWN, JS, C, C++ , HTML, CSS, SQL, PYTHON, BASH, Markdown, Lua, Java, Koltin**
