@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm 1rom11 a devoloper</h1>
 <h3 align="center">A young dev from Canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1rom11&label=Profile%20views&color=0051a8&style=flat-square" alt="1rom11" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&color=002e78&style=flat&label=PROFILE+VIEWS" alt="1rom11" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1rom11" alt="1rom11" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/1rom111" target="blank"><img src="https://img.shields.io/twitter/follow/1rom111?logo=twitter&style=for-the-badge" alt="1rom111" /></a> </p>
+
+<p align="left"> <img src="https://hit.yhype.me/github/profile?user_id=76579908" alt="1rom11" /> </p>
 
 - 🔭 I’m currently working on [1rom11/1rom11](https://github.com/1rom11/1rom11)
 
