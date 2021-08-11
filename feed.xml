@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<rss xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[New releases from starred repo of 1rom11]]></title>
+        <link>https://bandito.re/a2cc217d-6365-4c85-a165-234c277a309e.atom</link>
+        <description><![CDATA[Here are all the new releases from all repos starred by 1rom11]]></description>
+        <language>en</language>
+        <copyright><![CDATA[(c) 2021 banditore]]></copyright>
+        <lastBuildDate>Wed, 11 Aug 2021 20:09:43 +0200</lastBuildDate>
+        <generator><![CDATA[banditore]]></generator>
+        <atom:link href="https://bandito.re/a2cc217d-6365-4c85-a165-234c277a309e.atom" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+        <webfeeds:logo>https://avatars.githubusercontent.com/u/76579908?v=4</webfeeds:logo>
+        <webfeeds:icon>https://avatars.githubusercontent.com/u/76579908?v=4</webfeeds:icon>
+        <webfeeds:accentColor>10556B</webfeeds:accentColor>
+    </channel>
+</rss>
