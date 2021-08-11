@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/1rom111" target="blank"><img src="https://img.shields.io/twitter/follow/1rom111?logo=twitter&style=for-the-badge" alt="1rom111" /></a> </p>
 
-<p align="left"> <img src="https://hit.yhype.me/github/profile?user_id=76579908" alt="1rom11" /> </p>
-
 
 - 🔭 I’m currently working on [1rom11/1rom11](https://github.com/1rom11/1rom11)
 
