@@ -29,7 +29,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- 📑 My Blog [(Reddit)] (https://www.reddit.com/user/VoidLordKing_YT)
+- 📑 My Blog [(Reddit)](https://www.reddit.com/user/VoidLordKing_YT)
 - 📑 My Other Blog [(Dev.to)](https://dev.to/1rom11)
 <!-- BLOG-POST-LIST:END -->
 
