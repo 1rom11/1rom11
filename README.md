@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm 1rom11 a devoloper</h1>
 <h3 align="center">A young dev from Canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&color=002e78&style=flat&label=PROFILE+VIEWS" alt="1rom11" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-username&color=002e78&style=flat&label=PROFILE+VIEWS" alt="1rom11" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1rom11" alt="1rom11" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1rom11&theme=onestar&row=2&column=3&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="1rom11" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/1rom111" target="blank"><img src="https://img.shields.io/twitter/follow/1rom111?logo=twitter&style=for-the-badge" alt="1rom111" /></a> </p>
+<p align="center"> <a href="https://twitter.com/1rom111" target="blank"><img src="https://img.shields.io/twitter/follow/1rom111?logo=twitter&style=for-the-badge" alt="1rom111" /></a> </p>
 
 
 - 🔭 I’m currently working on [1rom11/1rom11](https://github.com/1rom11/1rom11)
 
-- 🌱 I’m currently learning **SPWN, JS, C, C++ , HTML, CSS, SQL, PYTHON, BASH, Markdown, Lua, Java, Koltin**
+- 🌱 I’m currently learning **RUST, JS, C, C++ , C# (.NET), HTML, CSS, SQL, PYTHON, BASH, Java, Koltin**
 
 - 👯 I’m looking to collaborate on [anything](https://github.com/1rom11/1rom11)
 
-- 🤝 I’m looking for help with [codex](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- 🤝 I’m looking for help with [Click me to see](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - 👨‍💻 All of my projects are available at [https://github.com/1rom11](https://github.com/1rom11)
 
@@ -29,6 +29,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- 📑 My Blog (Reddit) [https://www.reddit.com/user/VoidLordKing_YT](https://www.reddit.com/user/VoidLordKing_YT)
+- 📑 My Other Blog (Dev.to) [https://dev.to/1rom11](https://dev.to/1rom11)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
