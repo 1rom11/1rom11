@@ -29,8 +29,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- 📑 My Blog (Reddit) [https://www.reddit.com/user/VoidLordKing_YT](https://www.reddit.com/user/VoidLordKing_YT)
-- 📑 My Other Blog (Dev.to) [https://dev.to/1rom11](https://dev.to/1rom11)
+- 📑 My Blog [(Reddit)] (https://www.reddit.com/user/VoidLordKing_YT)
+- 📑 My Other Blog [(Dev.to)](https://dev.to/1rom11)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
