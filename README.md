@@ -29,10 +29,10 @@
 
 <details>
   <summary>:zap: 📑 Blogs</summary>
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- 📑 My Blog [(Reddit)](https://www.reddit.com/user/VoidLordKing_YT)
-- 📑 My Other Blog [(Dev.to)](https://dev.to/1rom11)
+<h3>📑 My Blogs</h3>
+<a href="https://dev.to/1rom11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="1rom11" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/VoidLordKing_YT" target="blank"><img align="center" src="https://www.clipartmax.com/png/middle/134-1346150_file-reddit-new-svg-wikimedia-commons-reddit-icon.png" alt="1rom11" height="30" width="40" /></a>
 <!-- BLOG-POST-LIST:END -->
 </details>
 
