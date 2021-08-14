@@ -29,6 +29,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello 1rom11 here](https://dev.to/1rom11/hello-1rom11-here-1e4c)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
