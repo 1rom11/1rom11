@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **dasromit12@gmail.com (Main), atomicburst103@gmail.com (Secondary)**
 
-- 📄 My resume (Not finished so I added a song) [https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [📄 My resume (Not finished)](https://1rom11.github.io/me/)
 
 - ⚡ Fun fact **I am terrible at everything like markdown**
 
