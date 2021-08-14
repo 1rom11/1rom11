@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **C, Python (Like discord.py), JS Visualized (JS game development), and a little of SPWN (A language for Geometry Dash Triggers and level design)**
 
+- 📋 I want to learn **C++, C#, Rust, Java, and others like assembly (thats a joke (kinda (wait can you use a "()" in a "()" geting confused)))**
+
 - 👯 I’m looking to collaborate on **nothing right now**
 
 - 🤝 I’m looking for help with **friends**
