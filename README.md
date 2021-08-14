@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 1rom11</h1>
-<h3 align="center">A passionate frontend developer from Canada ( Don't follow me )</h3>
+<h3 align="center">A developer from Canada</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=1rom11&label=VIEWS&color=0e75b6&style=flat-square" alt="1rom11" /> </p>
 
@@ -53,4 +53,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1rom11&theme=vue-dark&type=svg" alt="1rom11" /></p>
 
 
-> 1rom11
+> Codeism: 1rom11
