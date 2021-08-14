@@ -38,7 +38,7 @@
 <p align="left">
 <a href="https://dev.to/1rom11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="1rom11" height="30" width="40" /></a>
 <a href="https://twitter.com/1rom111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1rom111" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucw2rgtzlmcyfa_gpikoczia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucw2rgtzlmcyfa_gpikoczia" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/UCW2rGtzLMcYfa_gPikoCzIA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCW2rGtzLMcYfa_gPikoCzIA" height="30" width="40" /></a>
 <a href="https://discord.gg/XgbbY9Jydu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="XgbbY9Jydu" height="30" width="40" /></a>
 <a href="/https://github.com/1rom11.private.atom?token=asiiirdoi4ez3x36mbrecw57eewmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://github.com/1rom11.private.atom?token=asiiirdoi4ez3x36mbrecw57eewmk" height="30" width="40" /></a>
 </p>
@@ -51,3 +51,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1rom11&show_icons=true&hide_border=true&locale=en" alt="1rom11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1rom11&theme=vue-dark&type=svg" alt="1rom11" /></p>
+
+
+> 1rom11
