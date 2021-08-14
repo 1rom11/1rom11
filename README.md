@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **C, Python (Like discord.py), JS Visualized (JS game development), and a little of SPWN (A language for Geometry Dash Triggers and level design)**
 
-- 📋 I want to learn **C++, C#, Rust, Java, and others like assembly (thats a joke (kinda (wait can you use a "()" in a "()" geting confused)))**
+- 📋 I want to learn **C++, Java, and others like assembly (thats a joke (kinda (wait can you use a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" (Okay lets stop) geting confused)))**
 
 - 👯 I’m looking to collaborate on **nothing right now**
 
-- 🤝 I’m looking for help with **friends**
+- 🤝 I’m looking for help with **how to run my c program with a compiler**
 
 - 👨‍💻 All of my projects are (gonna) available at [https://github.com/1rom11](https://github.com/1rom11)
 
