@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **my terrorism**
 
-- 📫 How to reach me **dasromit12@gmail.com (Main), atomicburst103@gmail.com (Secondary)**
+- 📫 How to reach me **dasromit12@gmail.com (Main), atomicburst103@gmail.com (Secondary) for business inquiries and for main stream talking contact me on discord at 1rom11#1111**
 
 - [📄 My resume (Not finished)](https://1rom11.github.io/me/)
 
