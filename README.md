@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **nothing right now**
 
-- 🤝 I’m looking for help with **how to run my c program with a compiler**
+- 🤝 I’m looking for help with **nothing**
 
 - 👨‍💻 All of my projects are (gonna) available at [https://github.com/1rom11](https://github.com/1rom11)
 
