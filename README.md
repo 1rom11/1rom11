@@ -7,11 +7,11 @@
 
 <p align="center"> <a href="https://twitter.com/1rom111" target="blank"><img src="https://img.shields.io/twitter/follow/1rom111?logo=twitter&style=for-the-badge" alt="1rom111" /></a> </p>
 
-- 🔭 I’m currently working on **a webpage or bio page and a discord bot**
+- 🔭 I’m currently working on **being a human**
 
-- 🌱 I’m currently learning **C, Python (Like discord.py), JS Visualized (JS game development), and a little of SPWN (A language for Geometry Dash Triggers and level design)**
+- 🌱 I’m currently learning **C, Python variants, JS Game dev, and a little of C**
 
-- 📋 I want to learn **C++, Java, and others like assembly (thats a joke (kinda (wait can you use a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" in a "()" (Okay lets stop) geting confused)))**
+- 📋 I want to learn **Full C, How to make full websites with Node.js**
 
 - 👯 I’m looking to collaborate on **nothing right now**
 
