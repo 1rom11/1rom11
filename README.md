@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1rom11" alt="1rom11" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/1rom11" target="blank"><img src="https://img.shields.io/twitter/follow/1rom11?logo=twitter&style=for-the-badge" alt="1rom11" /></a> </p>
+<p align="center"> <a href="https://twitter.com/1rom11" target="blank"><img src="https://img.shields.io/twitter/follow/1rom111?logo=twitter&style=for-the-badge" alt="1rom11" /></a> </p>
 
 - 🔭 I’m currently working on **nothing currently**
 
