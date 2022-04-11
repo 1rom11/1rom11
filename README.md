@@ -1,11 +1,15 @@
+<style>
+  background-color: blue;
+</style>
+
 <h1 align="center">Hi 👋, I'm 1rom11 - (Romit Das)</h1>
 <h3 align="center">A passionate fullstack developer from Canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1rom11&label=Profile%20views&color=0e75b6&style=flat" alt="1rom11" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=1rom11&label=Profile%20views&color=0e75b6&style=flat" alt="1rom11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1rom11" alt="1rom11" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1rom11" alt="1rom11" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/1rom11" target="blank"><img src="https://img.shields.io/twitter/follow/1rom11?logo=twitter&style=for-the-badge" alt="1rom11" /></a> </p>
+<p align="center"> <a href="https://twitter.com/1rom11" target="blank"><img src="https://img.shields.io/twitter/follow/1rom11?logo=twitter&style=for-the-badge" alt="1rom11" /></a> </p>
 
 - 🔭 I’m currently working on **nothing currently**
 
