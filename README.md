@@ -1,7 +1,3 @@
-<style>
-  background-color: blue;
-</style>
-
 <h1 align="center">Hi 👋, I'm 1rom11 - (Romit Das)</h1>
 <h3 align="center">A passionate fullstack developer from Canada</h3>
 
