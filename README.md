@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/1rom11](https://github.com/1rom11)
 
-- 📫 How to reach me **kawaiirom8#3525 (discord)**
+- 📫 How to reach me **1rom11-dio#3525**
 
 - ⚡ Fun fact **The first-ever computer had a weight of over 27 Tons**
 
